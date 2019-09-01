@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Environment\bin\Release\iS3.Environment.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Environment\bin\Release\iS3.Environment.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Environment\obj\Release\iS3.Environment.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Environment\obj\Release\iS3.Environment.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Environment\obj\Release\iS3.Environment.pdb

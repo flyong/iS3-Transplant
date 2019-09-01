@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tabs>
+  <Tab Text="场景浏览">
+    <Item Text="地上场景" ImagePath="images\dscj.png" DllPath="tools\IS3.ViewControlModule.dll" ClassName="IS3.ViewControlModule.U3DSceneControl"></Item>
+    <Item Text="管廊场景" ImagePath="images\dxgl.png" DllPath="tools\IS3.ViewControlModule.dll" ClassName="IS3.ViewControlModule.U3DSceneControl1"></Item>
+    <Item Text="视点管理" ImagePath="images\dxgl.png" DllPath="tools\IS3.ViewPointSaver.dll" ClassName="IS3.ViewPointSaver.ViewPointSaver"></Item>
+  </Tab>
+  <Tab Text="施工进度管理">
+    <Item Text="计划创建" ImagePath="images\jhcj.png" DllPath="Local.NewProject"></Item>
+    <Item Text="数据导入" ImagePath="images\sjdr.png" DllPath="Local.DataImport"></Item>
+    <Item Text="数据导出" ImagePath="images\sjdc.png" DllPath="Local.DataOutput" ></Item>
+    <Item Text="模型关联" ImagePath="images\mxgl.png"  DllPath="Local.WbsDeal"></Item>
+    <Item Text="进度查看" ImagePath="images\jdck.png"  DllPath="Local.ProgressShow"></Item>
+    <Item Text="进度分析" ImagePath="images\jdfx.png"  DllPath="Local.TaskAnalysis"></Item>
+    <Item Text="进度跟踪" ImagePath="images\jdzz.png"  DllPath="Local.ProgressFollow"></Item>
+    <Item Text="关键路径" ImagePath="images\gjlj.png" DllPath="Local.HighLightTasks" ></Item>
+    <Item Text="方案比选" ImagePath="images\sgfa.png" DllPath="Local.GanttTaskcompare"></Item>
+  </Tab>
+  <Tab Text="施工场地分析">
+    <Item Text="新增布置" ImagePath="images\cdbz.png" DllPath="Local.NewScheme" ></Item>
+    <Item Text="场地模拟" ImagePath="images\cdmn.png" DllPath="Local.GanttTaskcompare"></Item>
+  </Tab>
+  <Tab Text="质量安全管理">
+    <Item Text="资料管理" ImagePath="images\zlgl.png" DllPath="tools\IS3.ProgressManagementModule.dll" ClassName="IS3.ProgressManagementModule.GanttView"></Item>
+    <Item Text="数据管理" ImagePath="images\sjgl.png" DllPath="tools\IS3.ProgressManagementModule.dll" ClassName="IS3.ProgressManagementModule.GanttView"></Item>
+    <Item Text="安全预警" ImagePath="images\aqxj.png" DllPath="tools\IS3.ProgressManagementModule.dll" ClassName="IS3.ProgressManagementModule.GanttView"></Item>
+    <Item Text="查询统计" ImagePath="images\cxtj.png" DllPath="tools\IS3.ProgressManagementModule.dll" ClassName="IS3.ProgressManagementModule.GanttView"></Item>
+  </Tab>
+</Tabs>

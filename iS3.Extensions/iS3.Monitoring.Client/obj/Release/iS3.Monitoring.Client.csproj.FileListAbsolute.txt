@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\bin\Release\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\bin\Release\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Release\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Release\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Release\iS3.Monitoring.Client.pdb

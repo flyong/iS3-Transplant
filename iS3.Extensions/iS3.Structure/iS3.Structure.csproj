@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FF888FD-88E9-4F3C-8FFD-573F03890C2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iS3.Structure</RootNamespace>
+    <AssemblyName>iS3.Structure</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Output\extensions\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\BAFI.cs" />
+    <Compile Include="Model\BLWA.cs" />
+    <Compile Include="Model\BOLT.cs" />
+    <Compile Include="Model\BULI.cs" />
+    <Compile Include="Model\CATR.cs" />
+    <Compile Include="Model\CIDR.cs" />
+    <Compile Include="Model\COAI.cs" />
+    <Compile Include="Model\CONC.cs" />
+    <Compile Include="Model\CORS.cs" />
+    <Compile Include="Model\COST.cs" />
+    <Compile Include="Model\CWDI.cs" />
+    <Compile Include="Model\DESI.cs" />
+    <Compile Include="Model\EMST.cs" />
+    <Compile Include="Model\EQCA.cs" />
+    <Compile Include="Model\GALL.cs" />
+    <Compile Include="Model\GARC.cs" />
+    <Compile Include="Model\GASL.cs" />
+    <Compile Include="Model\GEOT.cs" />
+    <Compile Include="Model\GRST.cs" />
+    <Compile Include="Model\GUSP.cs" />
+    <Compile Include="Model\HIGR.cs" />
+    <Compile Include="Model\INBA.cs" />
+    <Compile Include="Model\INLI.cs" />
+    <Compile Include="Model\INSP.cs" />
+    <Compile Include="Model\INSE.cs" />
+    <Compile Include="Model\JOST.cs" />
+    <Compile Include="Model\LADR.cs" />
+    <Compile Include="Model\LECO.cs" />
+    <Compile Include="Model\LOCA.cs" />
+    <Compile Include="Model\MILE.cs" />
+    <Compile Include="Model\MILI.cs" />
+    <Compile Include="Model\MOIN.cs" />
+    <Compile Include="Model\OWNE.cs" />
+    <Compile Include="Model\PORT.cs" />
+    <Compile Include="Model\ROST.cs" />
+    <Compile Include="Model\SELI.cs" />
+    <Compile Include="Model\SEST.cs" />
+    <Compile Include="Model\SILO.cs" />
+    <Compile Include="Model\SISP.cs" />
+    <Compile Include="Model\SIWE.cs" />
+    <Compile Include="Model\STEL.cs" />
+    <Compile Include="Model\TRAC.cs" />
+    <Compile Include="Model\TRAF.cs" />
+    <Compile Include="Model\TUAR.cs" />
+    <Compile Include="Model\TUFA.cs" />
+    <Compile Include="Model\TURA.cs" />
+    <Compile Include="Model\TURO.cs" />
+    <Compile Include="Model\TUSH.cs" />
+    <Compile Include="Model\TUYE.cs" />
+    <Compile Include="Model\VRDI.cs" />
+    <Compile Include="Model\WEPR.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\iS3.Core\iS3.Core.csproj">
+      <Project>{3c0ff8ad-4259-4018-bfce-755c1f3454b1}</Project>
+      <Name>iS3.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

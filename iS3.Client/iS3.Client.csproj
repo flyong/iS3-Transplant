@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7171E73E-E3F3-40F3-B33D-0CED63BC8FF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>iS3.Client</RootNamespace>
+    <AssemblyName>iS3.Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Esri.ArcGISRuntime, Version=10.2.5.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\Esri.ArcGISRuntime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Chart, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.Chart.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Charting, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.Charting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Docking, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.Docking.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.GanttView, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.GanttView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.GridView, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.GridView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Input, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.Input.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Navigation, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.Navigation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.RibbonView, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Controls.RibbonView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Data, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Scheduling.Core, Version=2018.1.116.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Scheduling.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Expression_Dark">
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Themes.Expression_Dark.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Fluent">
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Themes.Fluent.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Material">
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Themes.Material.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Office2016">
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Themes.Office2016.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.VisualStudio2013">
+      <HintPath>..\Output\libs\telerik\Telerik.Windows.Themes.VisualStudio2013.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="Xceed.Wpf.AvalonDock">
+      <HintPath>..\Output\libs\Xceed.Wpf.AvalonDock.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero">
+      <HintPath>..\Output\libs\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro">
+      <HintPath>..\Output\libs\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010">
+      <HintPath>..\Output\libs\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.DataGrid">
+      <HintPath>..\Output\libs\Xceed.Wpf.DataGrid.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit">
+      <HintPath>..\Output\libs\Xceed.Wpf.Toolkit.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="CommonObjsView.xaml.cs">
+      <DependentUpon>CommonObjsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Control\DataSourceWin.xaml.cs">
+      <DependentUpon>DataSourceWin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DGObjectsView.xaml.cs">
+      <DependentUpon>DGObjectsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CommonWindow.xaml.cs">
+      <DependentUpon>CommonWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DomainTreeView.xaml.cs">
+      <DependentUpon>DomainTreeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IS3MainWindow.xaml.cs">
+      <DependentUpon>IS3MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IS3ViewBase.cs" />
+    <Compile Include="LoginPage\LoginPageForYN.xaml.cs">
+      <DependentUpon>LoginPageForYN.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrame\MainFrameForZHGL.xaml.cs">
+      <DependentUpon>MainFrameForZHGL.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ObjsViewGeneral.xaml.cs">
+      <DependentUpon>ObjsViewGeneral.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlanView.xaml.cs">
+      <DependentUpon>PlanView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileView.xaml.cs">
+      <DependentUpon>ProfileView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectListPage\ProjectListPageForZHGL.xaml.cs">
+      <DependentUpon>ProjectListPageForZHGL.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyDef.cs" />
+    <Compile Include="ToolsPane\ToolsPaneForZHGL.xaml.cs">
+      <DependentUpon>ToolsPaneForZHGL.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\IS3ProfileView.cs" />
+    <Compile Include="ViewModel\IS3View2D.cs" />
+    <Compile Include="ViewModel\ToolsPanelViewModel.cs" />
+    <Page Include="CommonObjsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Control\DataSourceWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DGObjectsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CommonWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DomainTreeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IS3MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="LoginPage\LoginPageForYN.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainFrame\MainFrameForZHGL.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ObjsViewGeneral.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PlanView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProfileView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProjectListPage\ProjectListPageForZHGL.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ToolsPane\ToolsPaneForZHGL.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iS3.ArcGIS\iS3.ArcGIS.csproj">
+      <Project>{3e9a8ded-38b8-4050-849c-08957aeb5fbf}</Project>
+      <Name>iS3.ArcGIS</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Client.Control\iS3.Client.Controls.csproj">
+      <Project>{d25ea90a-4419-4cdd-a28d-66b9b18bc65c}</Project>
+      <Name>iS3.Client.Controls</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Core.Client\iS3.Core.Client.csproj">
+      <Project>{a337092f-7652-413f-91ca-2a1ecc0b37f5}</Project>
+      <Name>iS3.Core.Client</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Core\iS3.Core.csproj">
+      <Project>{3c0ff8ad-4259-4018-bfce-755c1f3454b1}</Project>
+      <Name>iS3.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Python\IS3-Python\iS3.Python.csproj">
+      <Project>{e6f7f4ad-0e87-45d7-bd80-d66c99379692}</Project>
+      <Name>iS3.Python</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Unity.EXE\iS3.Unity.EXE.csproj">
+      <Project>{5b63c6c4-e731-435a-a7dc-5f97b97d9424}</Project>
+      <Name>iS3.Unity.EXE</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Unity.Webplayer\iS3.Unity.Webplayer.csproj">
+      <Project>{9D38C271-EB97-46D0-862E-8DD70D3F13D1}</Project>
+      <Name>iS3.Unity.Webplayer</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\chart-curve-add-icon.png" />
+    <Resource Include="Images\chart-curve-icon.png" />
+    <Resource Include="Images\loginback.jpg" />
+    <Resource Include="Images\pIcon32.png" />
+    <Resource Include="Images\pIcon64.png" />
+    <Resource Include="Images\pin_red.png" />
+    <Resource Include="Images\placeholder32.png" />
+    <Resource Include="Images\ProjectList_Back.png" />
+    <Resource Include="Images\text.png" />
+    <Resource Include="Images\window-full-screen-icon.png" />
+    <Resource Include="Images\window-no-full-screen-icon.png" />
+    <Resource Include="Images\Windows-Table-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\GIS\Clear_selection.png" />
+    <Resource Include="Images\GIS\DrawArrow.PNG" />
+    <Resource Include="Images\GIS\DrawCircle.png" />
+    <Resource Include="Images\GIS\DrawEllipse.png" />
+    <Resource Include="Images\GIS\DrawFreehand.png" />
+    <Resource Include="Images\GIS\DrawPoint.png" />
+    <Resource Include="Images\GIS\DrawPolygon.png" />
+    <Resource Include="Images\GIS\DrawPolyline.png" />
+    <Resource Include="Images\GIS\DrawRectangle.png" />
+    <Resource Include="Images\GIS\Layers-32.png" />
+    <Resource Include="Images\GIS\pen.png" />
+    <Resource Include="Images\GIS\pin_red.png" />
+    <Resource Include="Images\GIS\rotate_left.png" />
+    <Resource Include="Images\GIS\selection.png" />
+    <Resource Include="Images\GIS\StopDraw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Docu.png" />
+    <Resource Include="Images\File.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Esri.ArcGISRuntime.10.2.5.857\build\net45\Esri.ArcGISRuntime.targets" Condition="Exists('..\packages\Esri.ArcGISRuntime.10.2.5.857\build\net45\Esri.ArcGISRuntime.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>此项目引用这台计算机上缺少的 NuGet 程序包。使用 NuGet 程序包还原可下载这些程序包。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Esri.ArcGISRuntime.10.2.5.857\build\net45\Esri.ArcGISRuntime.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Esri.ArcGISRuntime.10.2.5.857\build\net45\Esri.ArcGISRuntime.targets'))" />
+  </Target>
+</Project>

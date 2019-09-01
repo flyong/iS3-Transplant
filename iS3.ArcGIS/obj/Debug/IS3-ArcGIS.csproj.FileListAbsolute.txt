@@ -1,0 +1,8 @@
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\IS3-ArcGIS\obj\Debug\IS3-ArcGIS.csprojResolveAssemblyReference.cache
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\IS3-ArcGIS\obj\Debug\IS3-ArcGIS.csproj.CoreCompileInputs.cache
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\bin\IS3.ArcGIS.dll
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\bin\IS3.ArcGIS.pdb
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\IS3-ArcGIS\obj\Debug\IS3.ArcGIS.dll
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\IS3-ArcGIS\obj\Debug\IS3.ArcGIS.pdb
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\Output\bin\iS3.ArcGIS.dll
+C:\Users\lzkqcc\Documents\GitHub\iS3-Desktop\Output\bin\iS3.ArcGIS.pdb

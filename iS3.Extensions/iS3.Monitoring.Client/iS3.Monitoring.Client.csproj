@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E679F468-5301-4789-8105-580FA05C5A63}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iS3.Monitoring.Client</RootNamespace>
+    <AssemblyName>iS3.Monitoring.Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Output\extensions\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Windows.Controls">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Chart">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.Chart.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Charting">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.Charting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Docking">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.Docking.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.GanttView">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.GanttView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.GridView">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.GridView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Input">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.Input.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Navigation">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.Navigation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.RibbonView">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Controls.RibbonView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Data">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Scheduling.Core">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Scheduling.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Expression_Dark">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Themes.Expression_Dark.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Fluent">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Themes.Fluent.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Material">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Themes.Material.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.Office2016">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Themes.Office2016.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Themes.VisualStudio2013">
+      <HintPath>..\..\Output\libs\telerik\Telerik.Windows.Themes.VisualStudio2013.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entry.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\iS3.Core.Client\iS3.Core.Client.csproj">
+      <Project>{a337092f-7652-413f-91ca-2a1ecc0b37f5}</Project>
+      <Name>iS3.Core.Client</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3.Core\iS3.Core.csproj">
+      <Project>{3c0ff8ad-4259-4018-bfce-755c1f3454b1}</Project>
+      <Name>iS3.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Monitoring\iS3.Monitoring.csproj">
+      <Project>{ed03f0ad-ffae-49e9-b3ea-523e539f6531}</Project>
+      <Name>iS3.Monitoring</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Control\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

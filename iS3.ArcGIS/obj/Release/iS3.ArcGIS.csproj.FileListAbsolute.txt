@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\bin\iS3.ArcGIS.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\bin\iS3.ArcGIS.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.ArcGIS\obj\Release\iS3.ArcGIS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.ArcGIS\obj\Release\iS3.ArcGIS.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.ArcGIS\obj\Release\iS3.ArcGIS.pdb

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="iS3.Core.Model.DGObject">
+    <Position X="21.75" Y="1.25" Width="1.5" />
+    <Members>
+      <Method Name="chartViews" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DGObject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="parent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="iS3.Core.Model.DGObjects">
+    <Position X="19" Y="1.25" Width="1.5" />
+    <Members>
+      <Method Name="GetFilter" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAJAABAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DGObjects.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="definition" />
+      <Property Name="parent" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="objContainer" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="iS3.Core.Model.Domain">
+    <Position X="15.5" Y="1.25" Width="2" />
+    <Members>
+      <Method Name="GetDGObjects" Hidden="true" />
+      <Method Name="GetObjectsDefinition" Hidden="true" />
+    </Members>
+    <AssociationLine Name="objectsDefinitions" Type="iS3.Core.Model.ObjectsDefinition">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.029" Y="0.495" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQAABAIAAAAAAAAAAEAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Model\Domain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="parent" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="DGObjectsList" />
+      <Property Name="objectsDefinitions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="iS3.Core.Model.ObjectsDefinition">
+    <Position X="15.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAQQAAAgAAUAAhEACAAAAQAAAAACAQA=</HashCode>
+      <FileName>Model\Entity\ObjectsDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iS3.Core.Model.ProjectInfo">
+    <Position X="9" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAkAAgAAAAACAAAAAAAQAAAEAAAAAACAAAAAQA=</HashCode>
+      <FileName>Model\Entity\ProjectInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iS3.Core.Model.ProjectList">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAQIAAIAAAAAAAAAAAIAQAAAEAgAAAAAAAAAAAYUA=</HashCode>
+      <FileName>Model\Entity\ProjectList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iS3.Core.Model.TreeDefinition">
+    <Position X="4.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAQAAAAAAAAAAhAAAAIAAAAAwAAAAAA=</HashCode>
+      <FileName>Model\Entity\TreeDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iS3.Core.Model.iS3Entity">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\iS3Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iS3.Core.Model.Project">
+    <Position X="12.5" Y="1.25" Width="1.75" />
+    <Members>
+      <Method Name="findObjects" Hidden="true" />
+      <Method Name="Get2dRelatedObjs" Hidden="true" />
+      <Method Name="Get3dRelatedObjs" Hidden="true" />
+      <Method Name="getDomain" Hidden="true" />
+      <Method Name="Project" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgJAAAAAAAAEAAAAAAAAAAAAAAAACAgAAEE=</HashCode>
+      <FileName>Model\Project.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="projectInfo" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="domains" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

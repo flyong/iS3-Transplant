@@ -1,0 +1,17 @@
+﻿<Window x:Class="iS3.Client.Controls.ProgressTips"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iS3.Client.Controls"
+        mc:Ignorable="d"
+        Title="加载提示" Height="200" Width="400">
+    <Grid>
+        <StackPanel>
+            <ProgressBar Name="progressBar" Height="20" Width="250" Margin="10"></ProgressBar>
+            <TextBox Name="textBox" Width="50" Height="20" HorizontalAlignment="Center"></TextBox>
+            <TextBlock Name="Chsloadtip" Margin="0,5,0,0"  Text="数据内容正在加载，请勿关闭本窗口!" HorizontalAlignment="Center" FontSize="20"/>
+            <Button Name="btnCancel" Width="100"  Margin="5" Click="btnCancel_Click" >取消加载</Button>
+        </StackPanel>
+    </Grid>
+</Window>

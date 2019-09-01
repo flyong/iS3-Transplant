@@ -1,0 +1,4 @@
+E:\SVN\TS_Mon_Client\iS3.Client.Control\obj\Debug\iS3.Client.Control.csprojAssemblyReference.cache
+E:\SVN\TS_Mon_Client\iS3.Client.Control\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SVN\TS_Mon_Client\iS3.Client.Control\obj\Debug\iS3.Client.Control_MarkupCompile.cache
+E:\SVN\TS_Mon_Client\iS3.Client.Control\obj\Debug\iS3.Client.Control_MarkupCompile.lref

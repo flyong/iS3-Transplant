@@ -1,0 +1,24 @@
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\Output\bin\iS3.Python.dll
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\Output\bin\iS3.Python.pdb
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\IronPythonControl.baml
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\IronPythonControl.g.cs
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\iS3.Python_MarkupCompile.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\iS3.Python.g.resources
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\iS3.Python.Properties.Resources.resources
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csproj.GenerateResource.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\iS3.Python.dll
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\iS3.Python.pdb
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csprojAssemblyReference.cache
+E:\SVN\YN\Desktop 2.0\Output\bin\iS3.Python.dll
+E:\SVN\YN\Desktop 2.0\Output\bin\iS3.Python.pdb
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csprojAssemblyReference.cache
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\IronPythonControl.baml
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\IronPythonControl.g.cs
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\iS3.Python_MarkupCompile.cache
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\iS3.Python.g.resources
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\iS3.Python.Properties.Resources.resources
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csproj.GenerateResource.cache
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\IS3-Python.csproj.CoreCompileInputs.cache
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\iS3.Python.dll
+E:\SVN\YN\Desktop 2.0\IS3-Python\IS3-Python\obj\Debug\iS3.Python.pdb

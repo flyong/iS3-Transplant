@@ -1,0 +1,16 @@
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\iS3.Structure.dll
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\iS3.Structure.pdb
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\iS3.Core.dll
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\Newtonsoft.Json.dll
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\iS3.Core.pdb
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\bin\Release\Newtonsoft.Json.xml
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\obj\Release\iS3.Structure.csprojAssemblyReference.cache
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\obj\Release\iS3.Structure.csproj.CoreCompileInputs.cache
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\obj\Release\iS3.Structure.csproj.CopyComplete
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\obj\Release\iS3.Structure.dll
+E:\SVN\iS3-V2.0-Extension\iS3.Structure\obj\Release\iS3.Structure.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Structure\bin\Release\iS3.Structure.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Structure\bin\Release\iS3.Structure.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Structure\obj\Release\iS3.Structure.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Structure\obj\Release\iS3.Structure.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Structure\obj\Release\iS3.Structure.pdb

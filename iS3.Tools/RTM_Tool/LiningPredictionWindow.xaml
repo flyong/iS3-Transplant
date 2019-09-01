@@ -1,0 +1,38 @@
+﻿<Window x:Class="RTM_Tool.LiningPredictionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RTM_Tool"
+        mc:Ignorable="d"
+        Title="衬砌预测" Height="294.573" Width="600">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="按钮背景颜色：银白" EndPoint="0,1" StartPoint="0,0">
+            <GradientStop Color="#FFF3F3F3" Offset="0"/>
+            <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+            <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+            <GradientStop Color="#FFCDCDCD" Offset="1"/>
+        </LinearGradientBrush>
+
+        <!--Border的样式-->
+        <Style TargetType="{x:Type Border}" x:Key="gBox">
+            <Setter Property="BorderBrush" Value="CornflowerBlue"/>
+            <Setter Property="Background" Value="#dfe6ec"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="CornerRadius" Value="2"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Name="container" Margin="0,0,0,0">
+        <Button Content="开始预测" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="183" Height="68" FontSize="18" Click="PredictLining" Margin="226,27,0,0" RenderTransformOrigin="0.457,0.513"/>
+        <TextBlock  Text="掌子面"  FontSize="18" Margin="59,37,458.6,196.4" />
+        <TextBlock  Text="设计衬砌类型"  FontSize="18" Margin="38,144,440.6,89.4" />
+        <TextBlock  Text="类似衬砌变更"  FontSize="18" Margin="263,111,215.6,122.4" />
+        <TextBlock  Text="推荐衬砌类型"  FontSize="18" Margin="458,37,20.6,196.4" RenderTransformOrigin="2.067,-1.913" />
+        <ListBox Name="similarlining"   FontSize="12" Margin="217,144,168.6,20.4"  />
+        <ComboBox Name="tunnelfacebox" SelectionChanged="tuennalfacebox_changed" Margin="20,70,418.6,163.4" />
+        <TextBox Name="disgntype" FontSize="18" Margin="36,182,442.6,46.4" />
+        <ListBox Name="lininglist" Margin="444,68,9.6,20.4" />
+    </Grid>
+</Window>

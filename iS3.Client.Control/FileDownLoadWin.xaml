@@ -1,0 +1,25 @@
+﻿<Window x:Class="iS3.Client.Controls.FileDownLoadWin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:iS3.Client.Controls"
+             mc:Ignorable="d" Title="下载项目资源"
+             d:DesignHeight="300" d:DesignWidth="200" Topmost="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="2" >下载列表：</TextBlock>
+        <DataGrid Name="DownloadDG" Grid.Row="1">
+            <DataGrid.Columns>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Name="OKBtn" Click="OKBtn_Click" Margin="3" Width="70" HorizontalAlignment="Right">下载</Button>
+            <Button Name="CancelBtn" Click="CancelBtn_Click"  Margin="3" Width="70" HorizontalAlignment="Right">取消</Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="iS3.Client.Controls.MapLegend"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:iS3.Client.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="200">
+    <Grid>
+        <Border x:Name="Legend"  Background="White" BorderBrush="Black" BorderThickness="1">
+            <Grid  x:Name="LegendGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+                               Text="图例" x:Name="LegendTitle" />
+                <Grid x:Name="Container" Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3UnityLib\bin\Release\iS3UnityLibNew.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3UnityLib\bin\Release\iS3UnityLibNew.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3UnityLib\obj\Release\iS3UnityLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3UnityLib\obj\Release\iS3UnityLibNew.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3UnityLib\obj\Release\iS3UnityLibNew.pdb

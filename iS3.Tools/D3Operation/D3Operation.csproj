@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{670050E2-EE1E-472F-8BC2-C3D1834141C3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>D3Operation</RootNamespace>
+    <AssemblyName>D3Operation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Output\tools\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="D3ModelControl.cs" />
+    <Compile Include="D3PointControl.cs" />
+    <Compile Include="D3ProgressControl.cs" />
+    <Compile Include="D3_Construction_CHAG.cs" />
+    <Compile Include="D3_Construction_TFSI.cs" />
+    <Compile Include="D3_Construction_SPZL.cs" />
+    <Compile Include="D3_Construction_TPSI.cs" />
+    <Compile Include="D3_Construction_TPZL.cs" />
+    <Compile Include="D3_Structure_MILI.cs" />
+    <Compile Include="D3_Structure_WT.cs" />
+    <Compile Include="D3_Unity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\iS3.Core.Client\iS3.Core.Client.csproj">
+      <Project>{a337092f-7652-413f-91ca-2a1ecc0b37f5}</Project>
+      <Name>iS3.Core.Client</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3.Core\iS3.Core.csproj">
+      <Project>{3c0ff8ad-4259-4018-bfce-755c1f3454b1}</Project>
+      <Name>iS3.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3.Extensions\iS3.Construction\iS3.Construction.csproj">
+      <Project>{889e69f0-85cd-49d4-a059-4202be1425f6}</Project>
+      <Name>iS3.Construction</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3.Extensions\iS3.Structure\iS3.Structure.csproj">
+      <Project>{8ff888fd-88e9-4f3c-8ffd-573f03890c2d}</Project>
+      <Name>iS3.Structure</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3.Unity.EXE\iS3.Unity.EXE.csproj">
+      <Project>{5b63c6c4-e731-435a-a7dc-5f97b97d9424}</Project>
+      <Name>iS3.Unity.EXE</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\iS3UnityLib\iS3UnityLib.csproj">
+      <Project>{15aa4e60-79ea-4558-a28a-e5867416ceae}</Project>
+      <Name>iS3UnityLib</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

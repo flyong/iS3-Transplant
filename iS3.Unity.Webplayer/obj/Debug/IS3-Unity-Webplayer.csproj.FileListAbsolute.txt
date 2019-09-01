@@ -1,0 +1,74 @@
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\U3DView.baml
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\U3DView.g.cs
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3.Unity.Webplayer_MarkupCompile.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3.Unity.Webplayer.g.resources
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\Output\bin\IS3.Unity.Webplayer.dll
+E:\0-Development\iS3\iS3-Standalone-V1.0\Output\bin\IS3.Unity.Webplayer.pdb
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3.Unity.Webplayer.dll
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity\obj\Debug\IS3.Unity.Webplayer.pdb
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\Output\bin\IS3.Unity.Webplayer.dll
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\Output\bin\IS3.Unity.Webplayer.pdb
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer_MarkupCompile.cache
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.g.resources
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.dll
+D:\Users\DELL\Documents\GitHub\iS3-Config\iS3-Config\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.pdb
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer_MarkupCompile.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.g.resources
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.dll
+E:\0-Development\iS3\iS3-Standalone-V1.0\IS3-Unity-Webplayer\obj\Debug\IS3.Unity.Webplayer.pdb
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer_MarkupCompile.cache
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb
+E:\0-Development\iS3\is3-desktop\Output\bin\iS3.Unity.Webplayer.dll
+E:\0-Development\iS3\is3-desktop\Output\bin\iS3.Unity.Webplayer.pdb
+E:\0-Development\iS3\is3-desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\Output\bin\iS3.Unity.Webplayer.dll
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\Output\bin\iS3.Unity.Webplayer.pdb
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer_MarkupCompile.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
+D:\Users\DELL\Documents\GitHub\iS3-Desktop\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb
+E:\SVN\YN\Desktop 2.0\Output\bin\iS3.Unity.Webplayer.dll
+E:\SVN\YN\Desktop 2.0\Output\bin\iS3.Unity.Webplayer.pdb
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer_MarkupCompile.cache
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
+E:\SVN\YN\Desktop 2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb
+E:\SVN\iS3-V2.0\Output\bin\iS3.Unity.Webplayer.dll
+E:\SVN\iS3-V2.0\Output\bin\iS3.Unity.Webplayer.pdb
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csprojAssemblyReference.cache
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\U3DView.baml
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\U3DView.g.cs
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer_MarkupCompile.cache
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CoreCompileInputs.cache
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\IS3-Unity-Webplayer.csproj.CopyComplete
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
+E:\SVN\iS3-V2.0\IS3-Unity-Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb

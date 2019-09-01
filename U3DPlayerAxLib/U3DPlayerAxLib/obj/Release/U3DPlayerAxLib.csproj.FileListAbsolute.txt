@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\bin\Release\U3DPlayerAxLib.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\bin\Release\U3DPlayerAxLib.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Release\U3DPlayerAxLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Release\U3DPlayerAxLib.U3DPlayerControl.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Release\U3DPlayerAxLib.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Release\U3DPlayerAxLib.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Release\U3DPlayerAxLib.pdb

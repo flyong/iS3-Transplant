@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\bin\Release\iS3.Python.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\bin\Release\iS3.Python.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\IronPythonControl.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\IronPythonControl.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python_MarkupCompile.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.g.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.Properties.Resources.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Python\IS3-Python\obj\Release\iS3.Python.pdb

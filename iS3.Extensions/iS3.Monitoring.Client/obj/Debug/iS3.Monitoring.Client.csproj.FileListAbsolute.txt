@@ -1,0 +1,219 @@
+E:\SVN\TS_Mon_Client\Output\bin\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client\Output\bin\iS3.Monitoring.Client.pdb
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+E:\SVN\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+E:\SVN\TS_Mon_Client\Output\extension\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client\Output\extension\iS3.Monitoring.Client.pdb
+E:\SVN\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.pdb
+E:\SVN\TS_Mon_Client - 副本\Output\extensions\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client - 副本\Output\extensions\iS3.Monitoring.Client.pdb
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+E:\SVN\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\20180929\TS_Mon_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+E:\0-Development\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+E:\0-Development\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+E:\0-Development\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+E:\0-Development\xy\TS_YN_Client1016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client20181016\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client20181210\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client201812107\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\DELL\Desktop\TS_YN_Client\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csproj.CopyComplete
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\DELL\Desktop\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0127\TS_YN_Client0127\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0425\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\TS_YN_Client0505\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.g.cs
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.cache
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client_MarkupCompile.lref
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\Control\MonPointView.baml
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.g.resources
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+D:\8-svn\0-LY\TS_YN_Client\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+D:\8-svn\0-LY\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+D:\8-svn\0-LY\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+D:\8-svn\0-LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+D:\8-svn\0-LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+D:\8-svn\0-LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+F:\YN_LY\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+F:\YN_LY\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+F:\YN_LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+F:\YN_LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+F:\YN_LY\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0710\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0710\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0710\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0710\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0710\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying-develop\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying-develop\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying-develop\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying-develop\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying-develop\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\extensions\iS3.Monitoring.Client.pdb
+C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.dll
+C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Extensions\iS3.Monitoring.Client\obj\Debug\iS3.Monitoring.Client.pdb

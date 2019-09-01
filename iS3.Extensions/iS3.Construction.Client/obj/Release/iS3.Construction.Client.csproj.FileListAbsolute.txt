@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\bin\Release\iS3.Construction.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\bin\Release\iS3.Construction.Client.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\bin\Release\iS3.Construction.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\bin\Release\iS3.Construction.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\ACHE_Control_left.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\ACHE_Control .g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SKTH_Control.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SKTH_Win.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SPZL_Show.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\TPZL_Show.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\ACHE_Control_left.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\ACHE_Control .baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SKTH_Control.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SKTH_Win.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\SPZL_Show.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\Wins\TPZL_Show.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client.g.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Extensions\iS3.Construction.Client\obj\Release\iS3.Construction.Client.pdb

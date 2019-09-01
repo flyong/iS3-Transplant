@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\bin\Release\iS3.Unity.Webplayer.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\bin\Release\iS3.Unity.Webplayer.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\bin\Release\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\bin\Release\U3DPlayerAxLib.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\bin\Release\U3DPlayerAxLib.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\iS3.Unity.Webplayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\U3DView.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\U3DView.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\iS3.Unity.Webplayer_MarkupCompile.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\iS3.Unity.Webplayer.g.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\iS3.Unity.Webplayer.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.Webplayer\obj\Release\iS3.Unity.Webplayer.pdb

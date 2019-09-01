@@ -1,0 +1,61 @@
+﻿<Window x:Class="RTM_Tool.RiskAssessment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RTM_Tool"
+        mc:Ignorable="d"
+        Title="RiskAssessment" Height="600" Width="800">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="按钮背景颜色：银白" EndPoint="0,1" StartPoint="0,0">
+            <GradientStop Color="#FFF3F3F3" Offset="0"/>
+            <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+            <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+            <GradientStop Color="#FFCDCDCD" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Grid Name="container">
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://application:,,,/iS3.Client.Controls;component/images\zhgl\background_risk.jpg"/>
+        </Grid.Background>
+        <ComboBox Name="sect1" HorizontalAlignment="Left" Height="32" Margin="621,76,0,0" VerticalAlignment="Top" Width="139" FontSize="18" SelectionChanged="ComboBox_SelectionChanged" RenderTransformOrigin="3.522,3.388" Background="{DynamicResource 按钮背景颜色：银白}" >
+            <ComboBoxItem>S1</ComboBoxItem>
+            <ComboBoxItem>S2</ComboBoxItem>
+            <ComboBoxItem>S3</ComboBoxItem>
+            <ComboBoxItem>S4</ComboBoxItem>
+        </ComboBox>
+        <TextBox Name="mileage" HorizontalAlignment="Left" Height="32" Margin="621,139,0,0" VerticalAlignment="Top" Width="139" FontSize="18" RenderTransformOrigin="0.267,0.531" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Text="k4+400"  />
+        <Label  Content="突泥涌水风险动态快速评价打分" HorizontalAlignment="Center" Height="48" Margin="134,10,137,0" VerticalAlignment="Top" Width="521" FontSize="32" />
+
+        <Label  Content="岩溶规模" HorizontalAlignment="Left" Height="44" Margin="70,100,0,0" VerticalAlignment="Top" Width="112" FontSize="24" RenderTransformOrigin="0.07,0.497" />
+        <Label  Content="岩溶距离" HorizontalAlignment="Left" Height="44" Margin="70,190,0,0" VerticalAlignment="Top" Width="112" FontSize="24" />
+        <Label  Content="填充类型" HorizontalAlignment="Left" Height="44" Margin="70,280,0,0" VerticalAlignment="Top" Width="112" FontSize="24" />
+        <Label  Content="周围水体" HorizontalAlignment="Left" Height="44" Margin="70,370,0,0" VerticalAlignment="Top" Width="118" FontSize="24" />
+        <Label  Content="开挖扰动" HorizontalAlignment="Left" Height="44" Margin="70,460,0,0" VerticalAlignment="Top" Width="114" FontSize="24" />
+        <Label  Content="超前支护" HorizontalAlignment="Left" Height="44" Margin="300,100,0,0" VerticalAlignment="Top" Width="114" FontSize="24" />
+        <Label  Content="支护质量" HorizontalAlignment="Left" Height="44" Margin="300,190,0,0" VerticalAlignment="Top" Width="114" FontSize="24" />
+        <Label  Content="开挖面涌水" HorizontalAlignment="Left" Height="44" Margin="300,460,0,0" VerticalAlignment="Top" Width="133" FontSize="24" />
+        <Label  Content="超前预报" HorizontalAlignment="Left" Height="44" Margin="300,370,0,0" VerticalAlignment="Top" Width="114" FontSize="24" />
+        <Label  Content="应急预案" HorizontalAlignment="Left" Height="44" Margin="300,280,0,0" VerticalAlignment="Top" Width="114" FontSize="24" />
+        <Label x:Name="grade" Content="风险等级:" HorizontalAlignment="Left" Height="57" Margin="549,400,0,0" VerticalAlignment="Top" Width="178" FontSize="18" />
+        <Label x:Name="advice" Content="建议:" HorizontalAlignment="Left" Height="67" Margin="549,460,0,0" VerticalAlignment="Top" Width="178" FontSize="18" />
+        <Label x:Name="g1" Content="0" HorizontalAlignment="Left" Height="38" Margin="195,100,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g2" Content="0" HorizontalAlignment="Left" Height="38" Margin="195,190,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g3" Content="0" HorizontalAlignment="Left" Height="38" Margin="195,280,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g4" Content="0" HorizontalAlignment="Left" Height="38" Margin="195,370,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g5" Content="0" HorizontalAlignment="Left" Height="38" Margin="195,460,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g6" Content="0" HorizontalAlignment="Left" Height="38" Margin="440,100,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g7" Content="0" HorizontalAlignment="Left" Height="38" Margin="440,190,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g8" Content="0" HorizontalAlignment="Left" Height="38" Margin="440,280,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g9" Content="0" HorizontalAlignment="Left" Height="38" Margin="440,370,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Label x:Name="g10" Content="0" HorizontalAlignment="Left" Height="38" Margin="440,460,0,0" VerticalAlignment="Top" Width="90" FontSize="22" />
+        <Button Content="开始评测" HorizontalAlignment="Left" Margin="577,250,0,0" VerticalAlignment="Top" Width="183" Height="68" FontSize="18" Click="start"/>
+      
+        <Label  Content="标段" HorizontalAlignment="Left" Height="32" Margin="549,76,0,0" VerticalAlignment="Top" Width="60" FontSize="18" RenderTransformOrigin="2.314,3.138" />
+        <Label  Content="桩号" HorizontalAlignment="Left" Height="32" Margin="549,139,0,0" VerticalAlignment="Top" Width="60" FontSize="18" RenderTransformOrigin="5.466,-12.739" />
+
+        <Canvas>
+            <Rectangle RadiusX="5" RadiusY="5" Width="500" Height="450" Stroke="Black" StrokeDashArray="5,2,1,2" StrokeThickness="2" Canvas.Left="29" Canvas.Top="83"/>
+        </Canvas>
+    </Grid>
+</Window>

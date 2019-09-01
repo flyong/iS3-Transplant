@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\bin\Release\iS3.Unity.EXE.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\bin\Release\iS3.Unity.EXE.pdb
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\Document.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\U3DView.g.cs
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE_MarkupCompile.cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE_MarkupCompile.lref
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\Document.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\U3DView.baml
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.g.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.UnityPanel.resources
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.dll
+C:\Users\Administrator\Desktop\laoying0522\TS_YN_Client\iS3.Unity.EXE\obj\Release\iS3.Unity.EXE.pdb

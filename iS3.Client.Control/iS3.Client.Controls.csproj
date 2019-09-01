@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D25EA90A-4419-4CDD-A28D-66B9B18BC65C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iS3.Client.Controls</RootNamespace>
+    <AssemblyName>iS3.Client.Controls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\controls\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Esri.ArcGISRuntime, Version=10.2.5.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\Esri.ArcGISRuntime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonPropertyWin.xaml.cs">
+      <DependentUpon>CommonPropertyWin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Converts\BoolToSizeConvert.cs" />
+    <Compile Include="Converts\StringToImageConvert.cs" />
+    <Compile Include="DGObjectsPropertyWin.xaml.cs">
+      <DependentUpon>DGObjectsPropertyWin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FileDownLoadWin.xaml.cs">
+      <DependentUpon>FileDownLoadWin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FTP.cs" />
+    <Compile Include="IS3DataGrid.xaml.cs">
+      <DependentUpon>IS3DataGrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LayersWindow.xaml.cs">
+      <DependentUpon>LayersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LedDigitalControl\LedDigital\Data\DigitalData.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Data\DigitalParam.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\DigitalControl.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\DigitalPanelControl.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\BottomSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\DotSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\DownColonSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\DownLeftSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\DownRightSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\ISegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\MiddleSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\Segment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\TopSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\UpColonSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\UpLeftSegment.cs" />
+    <Compile Include="LedDigitalControl\LedDigital\Segments\UpRightSegment.cs" />
+    <Compile Include="LedDigitalControl\MVVMBase\DelegateCommand.cs" />
+    <Compile Include="LedDigitalControl\MVVMBase\ViewModelBase.cs" />
+    <Compile Include="LedDigitalControl\ViewModel.cs" />
+    <Compile Include="MapLegend.xaml.cs">
+      <DependentUpon>MapLegend.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MapTip.xaml.cs">
+      <DependentUpon>MapTip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MoveResizeFrame\DesignerItemDecorator.cs" />
+    <Compile Include="MoveResizeFrame\Adorners\ResizeRotateAdorner.cs" />
+    <Compile Include="MoveResizeFrame\Adorners\ResizeRotateChrome.cs" />
+    <Compile Include="MoveResizeFrame\Adorners\SizeAdorner.cs" />
+    <Compile Include="MoveResizeFrame\Adorners\SizeChrome.cs" />
+    <Compile Include="MoveResizeFrame\MoveThumb.cs" />
+    <Compile Include="ObjectView.xaml.cs">
+      <DependentUpon>ObjectView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProgressTips.xaml.cs">
+      <DependentUpon>ProgressTips.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PromptableButtonControl\PromptableButton.cs" />
+    <Compile Include="PromptableButtonControl\PromptAdorner.cs" />
+    <Compile Include="PromptableButtonControl\PromptChrome.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MoveResizeFrame\ResizeThumb.cs" />
+    <Compile Include="MoveResizeFrame\RotateThumb.cs" />
+    <Compile Include="RaisedText.xaml.cs">
+      <DependentUpon>RaisedText.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TreePanel.xaml.cs">
+      <DependentUpon>TreePanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WpfPageTransitions\Converter\CenterConverter.cs" />
+    <Compile Include="WpfPageTransitions\Converter\HeightConverter.cs" />
+    <Compile Include="WpfPageTransitions\Converter\InvertConverter.cs" />
+    <Compile Include="WpfPageTransitions\Converter\WidthConverter.cs" />
+    <Compile Include="WpfPageTransitions\PageTransition.xaml.cs">
+      <DependentUpon>PageTransition.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WpfPageTransitions\PageTransitionType.cs" />
+    <Compile Include="WPFRuler\WPFRuler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="CommonPropertyWin.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DGObjectsPropertyWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FileDownLoadWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IS3DataGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LayersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LedDigitalControl\LedDigital\Themes\Generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MapLegend.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MapTip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MoveResizeFrame\Resources\DesignerItem.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MoveResizeFrame\Resources\ResizeRotateChrome.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MoveResizeFrame\Resources\SizeChrome.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ObjectView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProgressTips.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PromptableButtonControl\PromptableButtonRD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RaisedText.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\DataGridStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\LightColor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TreePanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WpfPageTransitions\PageTransition.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\login\background.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\login\dl-hover.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\login\dl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Message.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Remind.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\config.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\people.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\biankuang.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\guanbi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\jiantou.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\map.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\map2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\photo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\photo2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\pifu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\pifu2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\shezhi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\shijain2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\shijian.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\tiixng2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\tixing.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\xiaoxi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\xiaoxi2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\shouqi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\shouqi2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\sousuo-hover.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\sousuo-hover2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\sousuo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\sousuo2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\zhedie.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\zhedie2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\projectlist\add.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\applications.png" />
+    <Resource Include="images\applications_engineering-large.png" />
+    <Resource Include="images\applications_engineering.png" />
+    <Resource Include="images\attachment.png" />
+    <Resource Include="images\Background.jpg" />
+    <Resource Include="images\binary-digital-globe.jpg" />
+    <Resource Include="images\blue_globe.png" />
+    <Resource Include="images\category.png" />
+    <Resource Include="images\char-curve-control-icon.png" />
+    <Resource Include="images\chart-curve-add-icon.png" />
+    <Resource Include="images\chart-curve-icon.png" />
+    <Resource Include="images\Clear.png" />
+    <Resource Include="images\Clear_selection.png" />
+    <Resource Include="images\clock_green.png" />
+    <Resource Include="images\clock_red.png" />
+    <Resource Include="images\collapse.png" />
+    <Resource Include="images\construction-firm-icon.png" />
+    <Resource Include="images\cube-48.png" />
+    <Resource Include="images\cube.png" />
+    <Resource Include="images\dismiss.png" />
+    <Resource Include="images\DrawArrow.PNG" />
+    <Resource Include="images\DrawCircle.png" />
+    <Resource Include="images\DrawEllipse.png" />
+    <Resource Include="images\DrawFreehand.png" />
+    <Resource Include="images\DrawPoint.png" />
+    <Resource Include="images\DrawPolygon.png" />
+    <Resource Include="images\DrawPolyline.png" />
+    <Resource Include="images\DrawRectangle.png" />
+    <Resource Include="images\DrawTriangle.PNG" />
+    <Resource Include="images\earth2.jpg" />
+    <Resource Include="images\edit_clear.png" />
+    <Resource Include="images\Element.png" />
+    <Resource Include="images\engineering_128_hot.png" />
+    <Resource Include="images\expand.png" />
+    <Resource Include="images\export-excel-icon.png" />
+    <Resource Include="images\folder_add.png" />
+    <Resource Include="images\folder_delete.png" />
+    <Resource Include="images\folder_edit.png" />
+    <Resource Include="images\folder_new.png" />
+    <Resource Include="images\Fullscreen-32.png" />
+    <Resource Include="images\Geology-16.png" />
+    <Resource Include="images\Geology-32.png" />
+    <Resource Include="images\Geology-48.png" />
+    <Resource Include="images\GeologyAnalysis-32.png" />
+    <Resource Include="images\GeologyProfile.png" />
+    <Resource Include="images\get_info.png" />
+    <Resource Include="images\Home-48.png" />
+    <Resource Include="images\HorizontalProjection.png" />
+    <Resource Include="images\house-16.png" />
+    <Resource Include="images\house-32.png" />
+    <Resource Include="images\house-48.png" />
+    <Resource Include="images\i_about.png" />
+    <Resource Include="images\i_clickglobe.png" />
+    <Resource Include="images\i_globe.png" />
+    <Resource Include="images\i_legend.png" />
+    <Resource Include="images\i_magnifyglass.png" />
+    <Resource Include="images\i_nav.png" />
+    <Resource Include="images\i_options.png" />
+    <Resource Include="images\i_overview.png" />
+    <Resource Include="images\i_tools.png" />
+    <Resource Include="images\i_widget.png" />
+    <Resource Include="images\i_zoomin.png" />
+    <Resource Include="images\i_zoomout.png" />
+    <Resource Include="images\kruler.png" />
+    <Resource Include="images\Layers-32.png" />
+    <Resource Include="images\layers-48.png" />
+    <Resource Include="images\light-16.png" />
+    <Resource Include="images\light.png" />
+    <Resource Include="images\loginback.jpg" />
+    <Resource Include="images\logo.png" />
+    <Resource Include="images\maintenace-32.png" />
+    <Resource Include="images\maintenace-48.png" />
+    <Resource Include="images\MLayer-Settings-icon.png" />
+    <Resource Include="images\Monitoring-48.png" />
+    <Resource Include="images\Monitoring.png" />
+    <Resource Include="images\My-world-icon.png" />
+    <Resource Include="images\Node.png" />
+    <Resource Include="images\Objects.png" />
+    <Resource Include="images\package_graphics.png" />
+    <Resource Include="images\pen.png" />
+    <Resource Include="images\pIcon32.png" />
+    <Resource Include="images\pIcon64.png" />
+    <Resource Include="images\pin_red.png" />
+    <Resource Include="images\placeholder32.png" />
+    <Resource Include="images\ProjectMapLayer.png" />
+    <Resource Include="images\projects-16.png" />
+    <Resource Include="images\projects-32.png" />
+    <Resource Include="images\projects_folder_16.png" />
+    <Resource Include="images\projects_folder_32.png" />
+    <Resource Include="images\projects_folder_48.png" />
+    <Resource Include="images\properties.png" />
+    <Resource Include="images\Python-48.png" />
+    <Resource Include="images\rotate_left.png" />
+    <Resource Include="images\selection.png" />
+    <Resource Include="images\Setting-icon.png" />
+    <Resource Include="images\Settlement.png" />
+    <Resource Include="images\StopDraw.png" />
+    <Resource Include="images\Subcategory.png" />
+    <Resource Include="images\TBM.png" />
+    <Resource Include="images\text.png" />
+    <Resource Include="images\Tunnel-32.png" />
+    <Resource Include="images\TunnelAnalysis-32.png" />
+    <Resource Include="images\TunnelAxis-32.png" />
+    <Resource Include="images\TunnelConstruction.png" />
+    <Resource Include="images\TunnelCrossLine-32.png" />
+    <Resource Include="images\TunnelCrossSection-32.png" />
+    <Resource Include="images\TunnelDepth.png" />
+    <Resource Include="images\TunnelDistToSt.png" />
+    <Resource Include="images\TunnelFaceStab.png" />
+    <Resource Include="images\TunnelGeology.png" />
+    <Resource Include="images\TunnelGeology1.png" />
+    <Resource Include="images\TunnelLoad1.png" />
+    <Resource Include="images\TunnelLoad2.png" />
+    <Resource Include="images\TunnelLongProf.png" />
+    <Resource Include="images\TunnelProfile-32.png" />
+    <Resource Include="images\TunnelSoilDepth.png" />
+    <Resource Include="images\VerticalProjection.png" />
+    <Resource Include="images\window-full-screen-icon.png" />
+    <Resource Include="images\window-no-full-screen-icon.png" />
+    <Resource Include="images\Windows-Table-icon.png" />
+    <Resource Include="images\window_new.png" />
+    <Resource Include="images\xcode_project_icon-1306152857.png" />
+    <Resource Include="images\gis\Clear_selection.png" />
+    <Resource Include="images\gis\DrawArrow.PNG" />
+    <Resource Include="images\gis\DrawCircle.png" />
+    <Resource Include="images\gis\DrawEllipse.png" />
+    <Resource Include="images\gis\DrawFreehand.png" />
+    <Resource Include="images\gis\DrawPoint.png" />
+    <Resource Include="images\gis\DrawPolygon.png" />
+    <Resource Include="images\gis\DrawPolyline.png" />
+    <Resource Include="images\gis\DrawRectangle.png" />
+    <Resource Include="images\gis\Layers-32.png" />
+    <Resource Include="images\gis\pen.png" />
+    <Resource Include="images\gis\pin_red.png" />
+    <Resource Include="images\gis\rotate_left.png" />
+    <Resource Include="images\gis\selection.png" />
+    <Resource Include="images\gis\StopDraw.png" />
+    <Resource Include="images\zhgl\5-4.png" />
+    <Resource Include="images\zhgl\aqxj.png" />
+    <Resource Include="images\zhgl\Background.jpg" />
+    <Resource Include="images\zhgl\blue_pin.png" />
+    <Resource Include="images\zhgl\cs-ho.png" />
+    <Resource Include="images\zhgl\cs.png" />
+    <Resource Include="images\zhgl\cxtj.png" />
+    <Resource Include="images\zhgl\dbj.png" />
+    <Resource Include="images\zhgl\dbj2.png" />
+    <Resource Include="images\zhgl\Dir.png" />
+    <Resource Include="images\zhgl\dir_open.png" />
+    <Resource Include="images\zhgl\dl-ho.png" />
+    <Resource Include="images\zhgl\dl.png" />
+    <Resource Include="images\zhgl\dscj.png" />
+    <Resource Include="images\zhgl\dxgl.png" />
+    <Resource Include="images\zhgl\dxgl3.png" />
+    <Resource Include="images\zhgl\gjlj.png" />
+    <Resource Include="images\zhgl\jdck.png" />
+    <Resource Include="images\zhgl\jdfx.png" />
+    <Resource Include="images\zhgl\jdzz.png" />
+    <Resource Include="images\zhgl\jhcj.png" />
+    <Resource Include="images\zhgl\logo2.png" />
+    <Resource Include="images\zhgl\mxgl.png" />
+    <Resource Include="images\zhgl\pin_red.png" />
+    <Resource Include="images\zhgl\qr-ho.png" />
+    <Resource Include="images\zhgl\qr.png" />
+    <Resource Include="images\zhgl\qx-ho.png" />
+    <Resource Include="images\zhgl\qx.png" />
+    <Resource Include="images\zhgl\sgfa.png" />
+    <Resource Include="images\zhgl\sjdc.png" />
+    <Resource Include="images\zhgl\sjdr.png" />
+    <Resource Include="images\zhgl\sjgl.png" />
+    <Resource Include="images\zhgl\xtpz-ho.png" />
+    <Resource Include="images\zhgl\xtpz.png" />
+    <Resource Include="images\zhgl\zlgl.png" />
+    <Resource Include="images\zhgl\×_project.png" />
+    <Resource Include="images\zhgl\工程.png" />
+    <Resource Include="images\zhgl\提醒.png" />
+    <Resource Include="images\zhgl\编辑project.png" />
+    <Resource Include="images\zhgl\ProjectList_Back.png" />
+    <Resource Include="images\login\LoginYN.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Logo\YNLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\zhgl\background_risk.jpg" />
+    <Content Include="MoveResizeFrame\Media\cross.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MoveResizeFrame\Media\intro.wmv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MoveResizeFrame\Media\paint.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iS3.Core.Client\iS3.Core.Client.csproj">
+      <Project>{a337092f-7652-413f-91ca-2a1ecc0b37f5}</Project>
+      <Name>iS3.Core.Client</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Core\iS3.Core.csproj">
+      <Project>{3c0ff8ad-4259-4018-bfce-755c1f3454b1}</Project>
+      <Name>iS3.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iS3.Unity.Webplayer\iS3.Unity.Webplayer.csproj">
+      <Project>{9d38c271-eb97-46d0-862e-8dd70d3f13d1}</Project>
+      <Name>iS3.Unity.Webplayer</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+E:\SVN\TS_Mon_Client - 副本\Output\extensions\iS3.Structure.Client.dll
+E:\SVN\TS_Mon_Client - 副本\Output\extensions\iS3.Structure.Client.pdb
+E:\SVN\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.csprojAssemblyReference.cache
+E:\SVN\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.csproj.CoreCompileInputs.cache
+E:\SVN\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.csproj.CopyComplete
+E:\SVN\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.dll
+E:\SVN\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\Output\extensions\iS3.Structure.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\Output\extensions\iS3.Structure.Client.pdb
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.dll
+C:\Users\Administrator\Desktop\20180911\TS_Mon_Client - 副本\iS3.Structure.Client\obj\Debug\iS3.Structure.Client.pdb
