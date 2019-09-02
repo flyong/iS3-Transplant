@@ -40,3 +40,11 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\U3DPlayerAxLib\U3DPlayer
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\U3DPlayerAxLib.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\U3DPlayerAxLib.pdb
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.U3DPlayerControl.resources
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.csproj.GenerateResource.cache
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.dll
+E:\GitHub\Respositories\iS3-Transplant\U3DPlayerAxLib\U3DPlayerAxLib\obj\Debug\U3DPlayerAxLib.pdb

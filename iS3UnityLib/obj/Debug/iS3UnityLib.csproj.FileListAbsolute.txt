@@ -28,3 +28,10 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\bin\iS3UnityLibNe
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3UnityLib\obj\Debug\iS3UnityLib.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3UnityLib\obj\Debug\iS3UnityLibNew.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3UnityLib\obj\Debug\iS3UnityLibNew.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3UnityLibNew.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3UnityLibNew.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3UnityLib\obj\Debug\iS3UnityLib.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3UnityLib\obj\Debug\iS3UnityLib.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3UnityLib\obj\Debug\iS3UnityLib.csproj.CopyComplete
+E:\GitHub\Respositories\iS3-Transplant\iS3UnityLib\obj\Debug\iS3UnityLibNew.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3UnityLib\obj\Debug\iS3UnityLibNew.pdb

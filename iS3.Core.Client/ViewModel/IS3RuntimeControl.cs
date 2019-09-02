@@ -11,9 +11,15 @@ namespace iS3.Core.Client
 {
 
     public enum PageType { LoginPage, ProjectList, MainFrame }
+
     public class IS3RuntimeControl
     {
+        /// <summary>
+        /// Used for hold three types of page；
+        /// 用于控制主窗口的显示：登录界面、项目列表、项目主界面
+        /// </summary>
         public IS3PageHolder myPageHolder;
+
         public void SetPageHolder(IS3PageHolder PageHolder)
         {
             this.myPageHolder = PageHolder;
@@ -45,7 +51,6 @@ namespace iS3.Core.Client
         {
             if (myPageHolder != null)
             {
-
                 myPageHolder.SetShow();
             }
         }

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Tools\iS3_DataManager\obj\Debug\
+E:\GitHub\Respositories\iS3-Transplant\iS3.Tools\iS3_DataManager\obj\Debug\
 iS3_DataManager
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 2-147692069
 
-401147915432
-251713087297
+41403301476
+251175520889
 MainWindow.xaml;DownloadList.xaml;
 
-False
+True
 

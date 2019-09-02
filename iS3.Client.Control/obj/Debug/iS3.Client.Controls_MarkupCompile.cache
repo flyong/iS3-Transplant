@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Client.Control\obj\Debug\
+E:\GitHub\Respositories\iS3-Transplant\iS3.Client.Control\obj\Debug\
 iS3.Client.Controls
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 191131678195
 31722567565
 52-265635790
-191424074584
+19745090109
 CommonPropertyWin.xaml;DGObjectsPropertyWin.xaml;FileDownLoadWin.xaml;IS3DataGrid.xaml;LayersWindow.xaml;LedDigitalControl\LedDigital\Themes\Generic.xaml;MapLegend.xaml;MapTip.xaml;MoveResizeFrame\Resources\DesignerItem.xaml;MoveResizeFrame\Resources\ResizeRotateChrome.xaml;MoveResizeFrame\Resources\SizeChrome.xaml;ObjectView.xaml;ProgressTips.xaml;PromptableButtonControl\PromptableButtonRD.xaml;RaisedText.xaml;Themes\DataGridStyle.xaml;Themes\LightColor.xaml;TreePanel.xaml;WpfPageTransitions\PageTransition.xaml;
 
 False

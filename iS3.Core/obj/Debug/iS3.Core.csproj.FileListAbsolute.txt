@@ -26,3 +26,10 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\bin\iS3.Core.pdb
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core\obj\Debug\iS3.Core.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core\obj\Debug\iS3.Core.pdb
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core\obj\Debug\iS3.Core.csprojResolveAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Core.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Core.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core\obj\Debug\iS3.Core.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core\obj\Debug\iS3.Core.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core\obj\Debug\iS3.Core.csproj.CopyComplete
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core\obj\Debug\iS3.Core.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core\obj\Debug\iS3.Core.pdb

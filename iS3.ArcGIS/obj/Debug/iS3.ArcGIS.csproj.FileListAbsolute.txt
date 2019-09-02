@@ -28,3 +28,9 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\bin\iS3.ArcGIS.pd
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.ArcGIS.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.ArcGIS.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3.ArcGIS\obj\Debug\iS3.ArcGIS.pdb

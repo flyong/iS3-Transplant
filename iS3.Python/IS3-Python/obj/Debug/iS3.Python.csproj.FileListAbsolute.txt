@@ -282,3 +282,15 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Python\IS3-Python\ob
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Python\IS3-Python\obj\Debug\iS3.Python.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Python\IS3-Python\obj\Debug\iS3.Python.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Python\IS3-Python\obj\Debug\iS3.Python.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Python.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Python.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\IronPythonControl.baml
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\IronPythonControl.g.cs
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python_MarkupCompile.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.g.resources
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.Properties.Resources.resources
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.csproj.GenerateResource.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3.Python\IS3-Python\obj\Debug\iS3.Python.pdb

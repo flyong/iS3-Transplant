@@ -28,3 +28,10 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\Output\bin\iS3.Core.Clie
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core.Client\obj\Debug\iS3.Core.Client.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core.Client\obj\Debug\iS3.Core.Client.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Core.Client\obj\Debug\iS3.Core.Client.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Core.Client.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Core.Client.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core.Client\obj\Debug\iS3.Core.Client.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core.Client\obj\Debug\iS3.Core.Client.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core.Client\obj\Debug\iS3.Core.Client.csproj.CopyComplete
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core.Client\obj\Debug\iS3.Core.Client.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3.Core.Client\obj\Debug\iS3.Core.Client.pdb

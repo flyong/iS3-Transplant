@@ -52,3 +52,14 @@ C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Unity.Webplayer\obj\
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
 C:\Users\Administrator\Desktop\laoying0718\TS_YN_Client\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Unity.Webplayer.dll
+E:\GitHub\Respositories\iS3-Transplant\Output\bin\iS3.Unity.Webplayer.pdb
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.csprojAssemblyReference.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\U3DView.baml
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\U3DView.g.cs
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer_MarkupCompile.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.g.resources
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.csproj.CoreCompileInputs.cache
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.csproj.CopyComplete
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.dll
+E:\GitHub\Respositories\iS3-Transplant\iS3.Unity.Webplayer\obj\Debug\iS3.Unity.Webplayer.pdb
