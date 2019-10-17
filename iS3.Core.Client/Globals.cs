@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace iS3.Core.Client
 {
+    /// <summary>
+    /// common runtime global environment 
+    /// 
+    /// </summary>
     public static class Globals
     {
         public static IS3RuntimeControl iS3Core { get; set; }

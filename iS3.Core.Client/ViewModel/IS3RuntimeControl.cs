@@ -12,6 +12,10 @@ namespace iS3.Core.Client
 
     public enum PageType { LoginPage, ProjectList, MainFrame }
 
+    /// <summary>
+    /// Control the client UI,login message,load extensions,dlls
+    /// 用于窗口控制，登录界面，工程列表、扩展加载
+    /// </summary>
     public class IS3RuntimeControl
     {
         /// <summary>
